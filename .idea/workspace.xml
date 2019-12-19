@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/test/java/com/zeroten/common/util/CheckUtilsTest.java" line="19" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0947e640-d3bf-4f27-b02a-81d12e5a1bf1" name="Default Changelist" comment="" />
+    <list default="true" id="0947e640-d3bf-4f27-b02a-81d12e5a1bf1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zeroten/common/util/CheckUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ch_du/javatest/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ch_du/javatest/TestContinue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ch_du/javatest/TestFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ch_du/javatest/TestSwichCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ch_du/javatest/TestdoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ch_du/javatest/array/TestArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ch_du/javatest/string/StringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ch_du/javatest/string/StringUtilTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ch_du/javatest/string/TestStringFind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ch_du/javatest/string/TestStringLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/zeroten/common/util/CheckUtilsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/ch_du/javatest/TestAgeArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/ch_du/javatest/TestAgeArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/ch_du/javatest/TestAgeArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/ch_du/javatest/TestAgeArray.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,11 +34,104 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/ch_du/javatest/TestFor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+            <state relative-caret-position="420">
+              <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/ch_du/javatest/TestSwichCase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="665">
+              <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/ch_du/javatest/TestContinue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/ch_du/javatest/string/StringTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1400">
+              <caret line="40" column="66" selection-start-line="8" selection-start-column="8" selection-end-line="40" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/ch_du/javatest/string/TestStringLength.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="560">
+              <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/ch_du/javatest/string/TestStringFind.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2240">
+              <caret line="66" column="49" selection-start-line="66" selection-start-column="49" selection-end-line="66" selection-end-column="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/ch_du/javatest/string/StringUtilTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="18" column="9" selection-start-line="10" selection-start-column="7" selection-end-line="18" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/zeroten/common/util/CheckUtilsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="61" column="25" selection-start-line="61" selection-start-column="25" selection-end-line="61" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/ch_du/javatest/array/TestArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="11" column="42" lean-forward="true" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/common/util/CheckUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -33,6 +145,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -42,6 +157,17 @@
         <option value="$PROJECT_DIR$/src/test/java/com/ch_du/javatest/ArrayTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ch_du/javatest/ArrayTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/ch_du/javatest/TestAgeArray.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ch_du/javatest/Test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ch_du/javatest/TestdoWhile.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ch_du/javatest/TestFor.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ch_du/javatest/TestSwichCase.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ch_du/javatest/TestContinue.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ch_du/javatest/string/StringTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ch_du/javatest/string/TestStringLength.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ch_du/javatest/string/TestStringFind.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ch_du/javatest/string/StringUtilTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/zeroten/common/util/CheckUtilsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ch_du/javatest/array/TestArray.java" />
       </list>
     </option>
   </component>
@@ -51,12 +177,15 @@
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -64,21 +193,95 @@
               <item name="demo_test" type="b2602c69:ProjectViewProjectNode" />
               <item name="demo_test" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="demo_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo_test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo_test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo_test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo_test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo_test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo_test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo_test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo_test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo_test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="javatest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo_test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576483203050" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576736945616" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -92,35 +295,63 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TestAgeArray.yaea">
-    <configuration name="ArrayTest" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.TestArray.Test">
+    <configuration name="CheckUtilsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zeroten.common.util.CheckUtilsTest" />
       <module name="demo_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ch_du.javatest.*" />
+          <option name="PATTERN" value="com.zeroten.common.util.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.ch_du.javatest" />
-      <option name="MAIN_CLASS_NAME" value="com.ch_du.javatest.ArrayTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayTest.testCopy" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="StringUtilTest.Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="demo_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ch_du.javatest.*" />
+          <option name="PATTERN" value="com.ch_du.javatest.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.ch_du.javatest" />
-      <option name="MAIN_CLASS_NAME" value="com.ch_du.javatest.ArrayTest" />
-      <option name="METHOD_NAME" value="testCopy" />
+      <option name="PACKAGE_NAME" value="com.ch_du.javatest.string" />
+      <option name="MAIN_CLASS_NAME" value="com.ch_du.javatest.string.StringUtilTest" />
+      <option name="METHOD_NAME" value="Test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestArray.Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ch_du.javatest.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ch_du.javatest.array" />
+      <option name="MAIN_CLASS_NAME" value="com.ch_du.javatest.array.TestArray" />
+      <option name="METHOD_NAME" value="Test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestStringFind.TestOpt" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="demo_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ch_du.javatest.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ch_du.javatest.string" />
+      <option name="MAIN_CLASS_NAME" value="com.ch_du.javatest.string.TestStringFind" />
+      <option name="METHOD_NAME" value="TestOpt" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -128,52 +359,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestAgeArray" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestStringFind.TestOpt2" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="demo_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ch_du.javatest.*" />
+          <option name="PATTERN" value="com.ch_du.javatest.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.ch_du.javatest" />
-      <option name="MAIN_CLASS_NAME" value="com.ch_du.javatest.TestAgeArray" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestAgeArray.age" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="demo_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ch_du.javatest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.ch_du.javatest" />
-      <option name="MAIN_CLASS_NAME" value="com.ch_du.javatest.TestAgeArray" />
-      <option name="METHOD_NAME" value="age" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestAgeArray.yaea" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="demo_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ch_du.javatest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.ch_du.javatest" />
-      <option name="MAIN_CLASS_NAME" value="com.ch_du.javatest.TestAgeArray" />
-      <option name="METHOD_NAME" value="yaea" />
+      <option name="PACKAGE_NAME" value="com.ch_du.javatest.string" />
+      <option name="MAIN_CLASS_NAME" value="com.ch_du.javatest.string.TestStringFind" />
+      <option name="METHOD_NAME" value="TestOpt2" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -183,11 +379,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TestAgeArray.yaea" />
-        <item itemvalue="TestNG.ArrayTest" />
-        <item itemvalue="TestNG.TestAgeArray" />
-        <item itemvalue="TestNG.TestAgeArray.age" />
-        <item itemvalue="TestNG.ArrayTest.testCopy" />
+        <item itemvalue="JUnit.TestArray.Test" />
+        <item itemvalue="Application.CheckUtilsTest" />
+        <item itemvalue="JUnit.StringUtilTest.Test" />
+        <item itemvalue="TestNG.TestStringFind.TestOpt2" />
+        <item itemvalue="TestNG.TestStringFind.TestOpt" />
       </list>
     </recent_temporary>
   </component>
@@ -204,43 +400,49 @@
       <workItem from="1576474808204" duration="4983000" />
       <workItem from="1576479839895" duration="122000" />
       <workItem from="1576480091541" duration="2610000" />
+      <workItem from="1576483330092" duration="777000" />
+      <workItem from="1576484177611" duration="2823000" />
+      <workItem from="1576561080993" duration="4500000" />
+      <workItem from="1576631783811" duration="240000" />
+      <workItem from="1576646717443" duration="13456000" />
+      <workItem from="1576734762650" duration="2039000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestAgeArray_age - 2019.12.16 at 14h 36m 32s.xml">
-      <configuration name="TestAgeArray.age" configurationId="TestNG" />
+    <history-entry file="TestStringFind_Test - 2019.12.18 at 15h 08m 19s.xml">
+      <configuration name="TestStringFind.Test" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestAgeArray_age - 2019.12.16 at 14h 37m 23s.xml">
-      <configuration name="TestAgeArray.age" configurationId="TestNG" />
+    <history-entry file="TestStringFind_Test - 2019.12.18 at 15h 22m 27s.xml">
+      <configuration name="TestStringFind.Test" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestAgeArray_yaea - 2019.12.16 at 14h 52m 03s.xml">
-      <configuration name="TestAgeArray.yaea" configurationId="TestNG" />
+    <history-entry file="TestStringFind_Test - 2019.12.18 at 15h 23m 19s.xml">
+      <configuration name="TestStringFind.Test" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestAgeArray_yaea - 2019.12.16 at 14h 55m 41s.xml">
-      <configuration name="TestAgeArray.yaea" configurationId="TestNG" />
+    <history-entry file="TestStringFind_Test - 2019.12.18 at 15h 26m 44s.xml">
+      <configuration name="TestStringFind.Test" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestAgeArray - 2019.12.16 at 14h 57m 23s.xml">
-      <configuration name="TestAgeArray" configurationId="TestNG" />
+    <history-entry file="TestStringFind_Test - 2019.12.18 at 15h 29m 26s.xml">
+      <configuration name="TestStringFind.Test" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestAgeArray - 2019.12.16 at 14h 57m 42s.xml">
-      <configuration name="TestAgeArray" configurationId="TestNG" />
+    <history-entry file="TestStringFind_TestOpt - 2019.12.18 at 16h 24m 14s.xml">
+      <configuration name="TestStringFind.TestOpt" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ArrayTest - 2019.12.16 at 14h 59m 10s.xml">
-      <configuration name="ArrayTest" configurationId="TestNG" />
+    <history-entry file="TestStringFind_TestOpt2 - 2019.12.18 at 16h 26m 31s.xml">
+      <configuration name="TestStringFind.TestOpt2" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ArrayTest - 2019.12.16 at 14h 59m 31s.xml">
-      <configuration name="ArrayTest" configurationId="TestNG" />
+    <history-entry file="StringUtilTest_Test - 2019.12.18 at 16h 46m 56s.xml">
+      <configuration name="StringUtilTest.Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestAgeArray_yaea - 2019.12.16 at 15h 05m 53s.xml">
-      <configuration name="TestAgeArray.yaea" configurationId="TestNG" />
+    <history-entry file="StringUtilTest_Test - 2019.12.18 at 16h 48m 29s.xml">
+      <configuration name="StringUtilTest.Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestAgeArray_yaea - 2019.12.16 at 15h 09m 09s.xml">
-      <configuration name="TestAgeArray.yaea" configurationId="TestNG" />
+    <history-entry file="TestArray_Test - 2019.12.19 at 14h 28m 22s.xml">
+      <configuration name="TestArray.Test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7715000" />
+    <option name="totallyTimeSpent" value="31550000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -253,28 +455,29 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49863014" visible="true" weight="0.25037822" />
-      <window_info id="Structure" order="1" sideWeight="0.50136983" side_tool="true" weight="0.24281392" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49429658" visible="true" weight="0.3192133" />
+      <window_info id="Structure" order="1" sideWeight="0.50570345" side_tool="true" weight="0.26928896" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" sideWeight="0.50136983" side_tool="true" weight="0.24281392" />
+      <window_info id="Favorites" order="6" sideWeight="0.50570345" side_tool="true" weight="0.26928896" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.40261865" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.5688525" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.46885246" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.61702126" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49924356" weight="0.1557377" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50075644" side_tool="true" weight="0.61639345" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3295082" />
       <window_info anchor="bottom" id="Run with Parallel Runner" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.3295082" />
       <window_info anchor="bottom" id="Debug with Parallel Runner" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -295,16 +498,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/eee111.java" />
     <entry file="file://$PROJECT_DIR$/src/test/qqqqq.java" />
     <entry file="file://$PROJECT_DIR$/src/test/com/ch_du/javatest/Test.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/ch_du/javatest/ArrayTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2660">
-          <caret line="78" column="19" selection-start-line="78" selection-start-column="19" selection-end-line="78" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ch_du/javatest/ArrayTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -319,20 +512,174 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/ch_du/javatest/TestAgeArray.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/DualPivotQuicksort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
-          <caret line="39" column="17" lean-forward="true" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+          <caret line="71" column="29" selection-start-line="71" selection-start-column="29" selection-end-line="71" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="149" column="21" lean-forward="true" selection-start-line="149" selection-start-column="21" selection-end-line="149" selection-end-column="21" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#5027#5028#0" expanded="true" />
+            <element signature="e#5098#5099#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-542">
+          <caret line="385" column="32" selection-start-line="385" selection-start-column="27" selection-end-line="385" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/PrintStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="694" column="16" selection-start-line="694" selection-start-column="16" selection-end-line="694" selection-end-column="16" />
+          <folding>
+            <element signature="e#24380#24381#0" expanded="true" />
+            <element signature="e#24405#24406#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        <state relative-caret-position="385">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ch_du/javatest/ArrayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2660">
+          <caret line="78" column="19" selection-start-line="78" selection-start-column="19" selection-end-line="78" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ch_du/javatest/TestAgeArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1785">
+          <caret line="55" column="31" selection-start-line="54" selection-start-column="8" selection-end-line="55" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ch_du/javatest/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ch_du/javatest/TestdoWhile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="17" column="13" selection-start-line="12" selection-start-column="12" selection-end-line="17" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5">
+          <caret line="3166" column="34" lean-forward="true" selection-start-line="3166" selection-start-column="34" selection-end-line="3166" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/zeroten/ssss.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/zeroten/common/sss.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ch_du/javatest/TestFor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ch_du/javatest/TestSwichCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ch_du/javatest/TestContinue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ch_du/javatest/string/StringTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1400">
+          <caret line="40" column="66" selection-start-line="8" selection-start-column="8" selection-end-line="40" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ch_du/javatest/string/TestStringLength.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ch_du/javatest/string/TestStringFind.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2240">
+          <caret line="66" column="49" selection-start-line="66" selection-start-column="49" selection-end-line="66" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ch_du/javatest/string/StringUtilTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="18" column="9" selection-start-line="10" selection-start-column="7" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/common/util/CheckUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/zeroten/common/util/CheckUtilsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="61" column="25" selection-start-line="61" selection-start-column="25" selection-end-line="61" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ch_du/javatest/array/TestArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="11" column="42" lean-forward="true" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

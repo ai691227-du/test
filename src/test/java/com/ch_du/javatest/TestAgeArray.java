@@ -3,9 +3,23 @@ package com.ch_du.javatest;
 import org.testng.annotations.Test;
 
 import java.util.Arrays;
+import java.util.Random;
 import java.util.Scanner;
 
 public class TestAgeArray {
+    //排序
+    @Test
+    public  void TestArray(){
+        int[] age={8,38,103,99,12,22,33,44,55,66,77,88};
+        Arrays.sort(age);
+        for (int i = 0; i<age.length; i++){
+
+            System.out. println(age[i]);
+        }
+
+
+    }
+
     @Test
     public void age(){
         int[] years={};
@@ -63,4 +77,20 @@ public class TestAgeArray {
     }
 
 
+    /**
+     *
+     */
+    public  void TestWhile(){
+        boolean c=true;
+        while (c){
+            //random 一个小于1000的随机数
+            int random = new Random().nextInt(1000);
+            if(random%30 ==0){
+                System.out.println("随机数：" + random + "能被30整除，不在执⾏循环");
+                c=false;
+            }else {
+                System.out.println("随机数：" + random );
+            }
+        }
+    }
 }
